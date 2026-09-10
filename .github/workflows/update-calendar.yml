@@ -2,11 +2,9 @@ name: Aggiorna calendario orari
 
 on:
   schedule:
-    # Ogni 6 ore. Sintassi cron in UTC: adatta se vuoi un'altra frequenza.
     - cron: "0 */6 * * *"
-  workflow_dispatch: {}  # permette anche l'esecuzione manuale dal tab Actions
+  workflow_dispatch: {}
 
-# Necessario per poter fare commit/push automatici dal workflow.
 permissions:
   contents: write
 
@@ -36,12 +34,15 @@ jobs:
           ORARIO_URL: ${{ vars.ORARIO_URL }}
         run: python update_calendar.py "$ORARIO_URL"
 
-      - name: Commit ICS se cambiato
+      - name: Commit ICS se cambiato o nuovo
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if ! git diff --quiet -- orari_lezioni.ics; then
-            git add orari_lezioni.ics
+          git add orari_lezioni.ics
+          # git diff --cached vede sia le modifiche a file tracciati
+          # sia i file appena aggiunti (a differenza di "git diff" semplice,
+          # che ignora i file mai committati prima).
+          if ! git diff --cached --quiet; then
             git commit -m "Aggiorna orari_lezioni.ics [skip ci]"
             git push
           else
