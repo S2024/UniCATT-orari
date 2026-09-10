@@ -1,0 +1,49 @@
+name: Aggiorna calendario orari
+
+on:
+  schedule:
+    # Ogni 6 ore. Sintassi cron in UTC: adatta se vuoi un'altra frequenza.
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}  # permette anche l'esecuzione manuale dal tab Actions
+
+# Necessario per poter fare commit/push automatici dal workflow.
+permissions:
+  contents: write
+
+concurrency:
+  group: update-calendar
+  cancel-in-progress: true
+
+jobs:
+  update-ics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installa dipendenze
+        run: |
+          pip install playwright
+          playwright install --with-deps chromium
+
+      - name: Esegui scraping e genera ICS
+        env:
+          ORARIO_URL: ${{ vars.ORARIO_URL }}
+        run: python update_calendar.py "$ORARIO_URL"
+
+      - name: Commit ICS se cambiato
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- orari_lezioni.ics; then
+            git add orari_lezioni.ics
+            git commit -m "Aggiorna orari_lezioni.ics [skip ci]"
+            git push
+          else
+            echo "Nessuna modifica da committare."
+          fi
