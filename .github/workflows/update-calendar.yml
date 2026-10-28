@@ -10,11 +10,12 @@ permissions:
 
 concurrency:
   group: update-calendar
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   update-ics:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -29,21 +30,22 @@ jobs:
           pip install playwright
           playwright install --with-deps chromium
 
-      - name: Esegui scraping e genera ICS
+      - name: Esegui scraping lezioni ed esami e genera ICS
         env:
           ORARIO_URL: ${{ vars.ORARIO_URL }}
-        run: python update_calendar.py "$ORARIO_URL"
+          ESAMI_URL: ${{ vars.ESAMI_URL }}
+        run: |
+          test -n "$ORARIO_URL" || { echo "Variabile ORARIO_URL mancante"; exit 1; }
+          test -n "$ESAMI_URL" || { echo "Variabile ESAMI_URL mancante"; exit 1; }
+          python -u update_calendar.py "$ORARIO_URL" "$ESAMI_URL"
 
       - name: Commit ICS se cambiato o nuovo
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add orari_lezioni.ics
-          # git diff --cached vede sia le modifiche a file tracciati
-          # sia i file appena aggiunti (a differenza di "git diff" semplice,
-          # che ignora i file mai committati prima).
-          if ! git diff --cached --quiet; then
-            git commit -m "Aggiorna orari_lezioni.ics [skip ci]"
+          git add -- orari_lezioni.ics
+          if ! git diff --cached --quiet -- orari_lezioni.ics; then
+            git commit -m "Aggiorna lezioni ed esami [skip ci]" -- orari_lezioni.ics
             git push
           else
             echo "Nessuna modifica da committare."
