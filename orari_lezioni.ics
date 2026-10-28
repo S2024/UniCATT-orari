@@ -1487,4 +1487,1792 @@ SUMMARY:ATTIVITA' ESERCITATIVA DI RECUPERO CHIMICA E PROPEDEUTICA BIOCHIMICA [B0
 LOCATION:Gemelli\, Istituti Biologici
 DESCRIPTION:Docente: IAZZETTI ANTONIA\nNote: CANALE A-L
 END:VEVENT
+BEGIN:VEVENT
+UID:esame-871359d1468e7505688ccd9dbbae8b2de700774029d77f36f80a1146e7bd25e4@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270127T073000Z
+DTEND:20270127T103000Z
+SUMMARY:APPELLO D'ESAME: CHIMICA E PROPEDEUTICA BIOCHIMICA [A001731]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: APPELLO D'ESAME\nFonte: https
+ ://roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-d
+ elle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCd
+ l=0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-bd9b206c7c5e24d16c327a2f2987add4403bdc1e2be091287fc4b95939ac6f2c@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270127T073000Z
+DTEND:20270127T173000Z
+SUMMARY:APPELLO D'ESAME: CHIMICA E PROPEDEUTICA BIOCHIMICA [A001731]
+LOCATION:Gemelli\, Istituti Biologici
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: APPELLO D'ESAME\nFonte: https
+ ://roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-d
+ elle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCd
+ l=0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-13445784a44bf48c79c937487518766b1da0279dc97e60345067b1360b1991cf@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270128T073000Z
+DTEND:20270128T173000Z
+SUMMARY:CODA D'ESAME: CHIMICA E PROPEDEUTICA BIOCHIMICA [A001731]
+LOCATION:Gemelli\, Istituti Biologici
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: CODA D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-abf54f4b43fd81b8dc856373caf25419533bf06eb575c5108c6aadef26e9ec0a@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270129T073000Z
+DTEND:20270129T173000Z
+SUMMARY:CODA D'ESAME: CHIMICA E PROPEDEUTICA BIOCHIMICA [A001731]
+LOCATION:Moscati\, Istituti Biologici
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: CODA D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-a8027e5a5721ea225acc1c3ad46c409d28c0f62ce307c81d03421dc80fc1aded@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270128T073000Z
+DTEND:20270128T103000Z
+SUMMARY:APPELLO D'ESAME: BIOLOGIA [B000115]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: PAROLINI ORNELLA\nTipo: APPELLO D'ESAME\nFonte: https:
+ //roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-de
+ lle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl
+ =0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-e863336d7318b71cd57bebc2e4a18abb34b816326e2168edf4c3d3988ee5592f@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270128T073000Z
+DTEND:20270128T173000Z
+SUMMARY:APPELLO D'ESAME: BIOLOGIA [B000115]
+LOCATION:Lazzati\, Giovanni XXIII
+DESCRIPTION:Docente: PAROLINI ORNELLA\nTipo: APPELLO D'ESAME\nFonte: https:
+ //roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-de
+ lle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl
+ =0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-7e7a2cba80fc78e00ea56f5a47771d885cb2df33bc073619f5b9999643fc74df@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270202T083000Z
+DTEND:20270202T170000Z
+SUMMARY:APPELLO D'ESAME: LINGUA INGLESE [A001733]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: REGGIANI ENRICO\nTipo: APPELLO D'ESAME\nFonte: https:/
+ /roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-del
+ le-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=
+ 0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-8675b6983afe0c388fe8f6949d8cc19c47ea01f674150440b8fdbd2dc0ce0813@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270204T090000Z
+DTEND:20270204T150000Z
+SUMMARY:CODA D'ESAME: LINGUA INGLESE [A001733]
+LOCATION:San Luca\, Istituti Biologici
+DESCRIPTION:Docente: REGGIANI ENRICO\nTipo: CODA D'ESAME\nFonte: https://ro
+ ma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle-
+ lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E8
+ D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-066488dabd2c294550556a889a1652dc47418d811e0b1c81c437fc930cd4d76d@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270203T073000Z
+DTEND:20270203T103000Z
+SUMMARY:APPELLO D'ESAME: BIOCHIMICA E BIOLOGIA MOLECOLARE [A001736]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: APPELLO D'ESAME\nFonte: https
+ ://roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-d
+ elle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCd
+ l=0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-cfe9a85fc5c69eac3fcbe4de44dd497e72725d7014731421f421fe872d920595@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270203T073000Z
+DTEND:20270203T173000Z
+SUMMARY:APPELLO D'ESAME: BIOCHIMICA E BIOLOGIA MOLECOLARE [A001736]
+LOCATION:Gemelli\, Istituti Biologici
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: APPELLO D'ESAME\nFonte: https
+ ://roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-d
+ elle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCd
+ l=0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-8e9003ec9263b2f2b8fa9d504e4728be62d59fa4e771f3d2750b5e9561be8de9@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270204T073000Z
+DTEND:20270204T173000Z
+SUMMARY:CODA D'ESAME: BIOCHIMICA E BIOLOGIA MOLECOLARE [A001736]
+LOCATION:Gemelli\, Istituti Biologici
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: CODA D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-8c5bf22428afc5a443a713a703544d7fcd9758d893bced35a2d68879d123c224@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270205T073000Z
+DTEND:20270205T173000Z
+SUMMARY:CODA D'ESAME: BIOCHIMICA E BIOLOGIA MOLECOLARE [A001736]
+LOCATION:Gemelli\, Istituti Biologici
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: CODA D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-b945773b8e5019fee7d8c30731ed0a1c98b4e3dfe2be8dcf62df5486f46b44b0@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270204T070000Z
+DTEND:20270204T170000Z
+SUMMARY:APPELLO D'ESAME: SCIENZE UMANE [A001734]
+LOCATION:Bausola\, Giovanni XXIII
+DESCRIPTION:Docente: REFOLO PIETRO\nTipo: APPELLO D'ESAME\nFonte: https://r
+ oma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle
+ -lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E
+ 8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-5e9930fe8d4d79df907aadeb30fba2e769ea26893e07e2ab681cc9570adb69f2@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270204T103000Z
+DTEND:20270204T123000Z
+SUMMARY:APPELLO D'ESAME: SCIENZE UMANE [A001734]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: REFOLO PIETRO\nTipo: APPELLO D'ESAME\nFonte: https://r
+ oma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle
+ -lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E
+ 8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-032b081352c05c2e709774b4fa573e98059b35b520a6cd4e2593be843d15a04c@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270204T080000Z
+DTEND:20270204T170000Z
+SUMMARY:APPELLO D'ESAME: TEOLOGIA 1 - QUESTIONI FONDAMENTALI: LA FEDE CRIST
+ OLOGICA E LA SACRA SCRITTURA [A001933]
+LOCATION:Moscati\, Istituti Biologici
+DESCRIPTION:Docente: POMPEI GIACOMO\nTipo: APPELLO D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-2228c6386ba6b37730560bfca55ee19352bea0d69085ead3763b05c2d828194c@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270208T070000Z
+DTEND:20270208T170000Z
+SUMMARY:APPELLO D'ESAME: FISICA MEDICA APPLICATA [A001732]
+LOCATION:Necchi\, Istituti Biologici
+DESCRIPTION:Docente: DE SPIRITO MARCO\nTipo: APPELLO D'ESAME\nFonte: https:
+ //roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-de
+ lle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl
+ =0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-945ee55d5720af0c600376e57d728eee3505767360bc9382b3663c92737fa510@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270208T070000Z
+DTEND:20270208T170000Z
+SUMMARY:CODA D'ESAME: FISICA MEDICA APPLICATA [A001732]
+LOCATION:San Luca\, Istituti Biologici
+DESCRIPTION:Docente: DE SPIRITO MARCO\nTipo: CODA D'ESAME\nFonte: https://r
+ oma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle
+ -lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E
+ 8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-320f62de8002284cdb89d69c048db1613d79a3df26552626f7d7444e503c1f04@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270209T070000Z
+DTEND:20270209T170000Z
+SUMMARY:CODA D'ESAME: FISICA MEDICA APPLICATA [A001732]
+LOCATION:Moscati\, Istituti Biologici
+DESCRIPTION:Docente: DE SPIRITO MARCO\nTipo: CODA D'ESAME\nFonte: https://r
+ oma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle
+ -lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E
+ 8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-631ef486c64af2e420d8af8f46024913c96ab6996ba7eec47ff6031d24972134@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270209T070000Z
+DTEND:20270209T170000Z
+SUMMARY:CODA D'ESAME: FISICA MEDICA APPLICATA [A001732]
+LOCATION:San Luca\, Istituti Biologici
+DESCRIPTION:Docente: DE SPIRITO MARCO\nTipo: CODA D'ESAME\nFonte: https://r
+ oma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle
+ -lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E
+ 8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-2805ae90e87511b0fbbe642e7ff2d06ca6902e7fa2d70d4473cf9c8a7d35b8ff@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270210T070000Z
+DTEND:20270210T170000Z
+SUMMARY:CODA D'ESAME: FISICA MEDICA APPLICATA [A001732]
+LOCATION:Moscati\, Istituti Biologici
+DESCRIPTION:Docente: DE SPIRITO MARCO\nTipo: CODA D'ESAME\nFonte: https://r
+ oma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle
+ -lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E
+ 8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-c385ee1ef71c218e4f845efd2a8a7646e7f9f34fff9bce4083099f0d18fb853a@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270210T070000Z
+DTEND:20270210T170000Z
+SUMMARY:CODA D'ESAME: FISICA MEDICA APPLICATA [A001732]
+LOCATION:San Luca\, Istituti Biologici
+DESCRIPTION:Docente: DE SPIRITO MARCO\nTipo: CODA D'ESAME\nFonte: https://r
+ oma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle
+ -lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E
+ 8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-d08015224d57a64fee5a90956fed04360ddbd1d0bfe1d5cb460cc70e94cd9c85@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270211T070000Z
+DTEND:20270211T170000Z
+SUMMARY:CODA D'ESAME: FISICA MEDICA APPLICATA [A001732]
+LOCATION:Necchi\, Istituti Biologici
+DESCRIPTION:Docente: DE SPIRITO MARCO\nTipo: CODA D'ESAME\nFonte: https://r
+ oma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle
+ -lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E
+ 8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-e5c2ffeac77837edbd3dbcb3cc6cc876b9b03fe6b1d8aa2a5746c3e5311c1211@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270211T070000Z
+DTEND:20270211T170000Z
+SUMMARY:CODA D'ESAME: FISICA MEDICA APPLICATA [A001732]
+LOCATION:San Luca\, Istituti Biologici
+DESCRIPTION:Docente: DE SPIRITO MARCO\nTipo: CODA D'ESAME\nFonte: https://r
+ oma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle
+ -lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E
+ 8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-5f249e6d93f937de699fc9a65847440cec436ea6feacf0eb39b1e96d2374a171@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270210T073000Z
+DTEND:20270210T103000Z
+SUMMARY:APPELLO D'ESAME: CHIMICA E PROPEDEUTICA BIOCHIMICA [A001731]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: APPELLO D'ESAME\nFonte: https
+ ://roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-d
+ elle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCd
+ l=0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-80031fda3e4c5342062f68021cbe1342a0ddf25c76f340947636eb567951e78f@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270210T073000Z
+DTEND:20270210T173000Z
+SUMMARY:APPELLO D'ESAME: CHIMICA E PROPEDEUTICA BIOCHIMICA [A001731]
+LOCATION:Gemelli\, Istituti Biologici
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: APPELLO D'ESAME\nFonte: https
+ ://roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-d
+ elle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCd
+ l=0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-c74ff053a3c465737298c8b50c9dc67f5b1a9ed85cb41e79e399aa0fc2c7e197@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270211T073000Z
+DTEND:20270211T173000Z
+SUMMARY:CODA D'ESAME: CHIMICA E PROPEDEUTICA BIOCHIMICA [A001731]
+LOCATION:Gemelli\, Istituti Biologici
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: CODA D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-74558ba0fe6d459870eb0826e5dea8ad3bde34224b03e7285f207f8f8ce60612@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270212T073000Z
+DTEND:20270212T173000Z
+SUMMARY:CODA D'ESAME: CHIMICA E PROPEDEUTICA BIOCHIMICA [A001731]
+LOCATION:Gemelli\, Istituti Biologici
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: CODA D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-2f35f0ac40f3def7384333ae2fa7e04f21b348cef6a0f26c4c3eeb07874607b4@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270211T073000Z
+DTEND:20270211T103000Z
+SUMMARY:APPELLO D'ESAME: ISTOLOGIA [A001737]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: TAMAGNONE LUCA\nTipo: APPELLO D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-29667d4dff23dc8d9922dfeba66c0deb9f7171df12cc54e11fc8262456b1e430@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270211T073000Z
+DTEND:20270211T173000Z
+SUMMARY:APPELLO D'ESAME: ISTOLOGIA [A001737]
+LOCATION:Lazzati\, Giovanni XXIII
+DESCRIPTION:Docente: TAMAGNONE LUCA\nTipo: APPELLO D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-4e77c546a91bd083bf8bae0939842c9a293a5612c4ffe9f869ba72ede53c8796@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270212T073000Z
+DTEND:20270212T103000Z
+SUMMARY:APPELLO D'ESAME: BIOLOGIA [B000115]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: PAROLINI ORNELLA\nTipo: APPELLO D'ESAME\nFonte: https:
+ //roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-de
+ lle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl
+ =0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-438dde8aac7a9dcfc79770106792c6fdac484f172da83da9597480d85958f124@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270212T073000Z
+DTEND:20270212T173000Z
+SUMMARY:APPELLO D'ESAME: BIOLOGIA [B000115]
+LOCATION:Lazzati\, Giovanni XXIII
+DESCRIPTION:Docente: PAROLINI ORNELLA\nTipo: APPELLO D'ESAME\nFonte: https:
+ //roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-de
+ lle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl
+ =0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-e63ee925f4302ca76279485ba55135c0e09d3e7cad1dbdca14eb6be78e5ac279@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270216T083000Z
+DTEND:20270216T170000Z
+SUMMARY:APPELLO D'ESAME: LINGUA INGLESE [A001733]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: REGGIANI ENRICO\nTipo: APPELLO D'ESAME\nFonte: https:/
+ /roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-del
+ le-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=
+ 0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-fa236588e0ba3fc329c5225977b72e50068efcd54d854427739d4dac6b8ff8f7@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270218T090000Z
+DTEND:20270218T150000Z
+SUMMARY:CODA D'ESAME: LINGUA INGLESE [A001733]
+LOCATION:Necchi\, Istituti Biologici
+DESCRIPTION:Docente: REGGIANI ENRICO\nTipo: CODA D'ESAME\nFonte: https://ro
+ ma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle-
+ lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E8
+ D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-44219332ef105744f394b69e24370a2e095544f774538127e82c46395fa91399@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270217T073000Z
+DTEND:20270217T103000Z
+SUMMARY:APPELLO D'ESAME: BIOCHIMICA E BIOLOGIA MOLECOLARE [A001736]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: APPELLO D'ESAME\nFonte: https
+ ://roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-d
+ elle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCd
+ l=0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-e641c4b3ef16f98b57f3bb89fa92d510d1e14fc80bd5e1e661d72dd66d3d2283@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270217T073000Z
+DTEND:20270217T173000Z
+SUMMARY:APPELLO D'ESAME: BIOCHIMICA E BIOLOGIA MOLECOLARE [A001736]
+LOCATION:Gemelli\, Istituti Biologici
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: APPELLO D'ESAME\nFonte: https
+ ://roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-d
+ elle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCd
+ l=0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-ada426eff85a39eb0fd41dad572e29f82f2c411bce05c55bd6a2a0005c1717e9@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270218T073000Z
+DTEND:20270218T173000Z
+SUMMARY:CODA D'ESAME: BIOCHIMICA E BIOLOGIA MOLECOLARE [A001736]
+LOCATION:Gemelli\, Istituti Biologici
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: CODA D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-7de74d4e4629781a7e9348c8fca587c4dfefc664cac18804d3ccd9937f0600cd@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270219T073000Z
+DTEND:20270219T173000Z
+SUMMARY:CODA D'ESAME: BIOCHIMICA E BIOLOGIA MOLECOLARE [A001736]
+LOCATION:Gemelli\, Istituti Biologici
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: CODA D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-cae3455a872236059f77bed9d8c16e2dfa5e1a29debbf7d03dc0cd4dc256a52a@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270217T080000Z
+DTEND:20270217T120000Z
+SUMMARY:ESAME: PLANETARY HEALTH: DETERMINANTI AMBIENTALI\, GEOPOLITICI E PS
+ ICOSOCIALI DELLA SALUTE DELLE COMUNITÀ [AS000053]
+DESCRIPTION:Docente: VILLANI LEONARDO\nTipo: Non specificato sul sito\nFont
+ e: https://roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e
+ -orari-delle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=750
+ 12&codCdl=0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-19bd87d38fb98ff49e572f1bfb32da1ee4753c1a75962984173806ef1570c849@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270218T080000Z
+DTEND:20270218T170000Z
+SUMMARY:APPELLO D'ESAME: TEOLOGIA 1 - QUESTIONI FONDAMENTALI: LA FEDE CRIST
+ OLOGICA E LA SACRA SCRITTURA [A001933]
+LOCATION:Moscati\, Istituti Biologici
+DESCRIPTION:Docente: POMPEI GIACOMO\nTipo: APPELLO D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-a0cda496040055bb2f3edbdfc37c2bc6bdaba678d48b527061b4aba751c79bf1@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270222T070000Z
+DTEND:20270222T170000Z
+SUMMARY:APPELLO D'ESAME: FISICA MEDICA APPLICATA [A001732]
+LOCATION:Necchi\, Istituti Biologici
+DESCRIPTION:Docente: DE SPIRITO MARCO\nTipo: APPELLO D'ESAME\nFonte: https:
+ //roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-de
+ lle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl
+ =0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-0d723634be1167b2e9cb033513e20cd85ff050ac6ce0c3b2694437e2bb8e42cf@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270222T070000Z
+DTEND:20270222T170000Z
+SUMMARY:CODA D'ESAME: FISICA MEDICA APPLICATA [A001732]
+LOCATION:San Luca\, Istituti Biologici
+DESCRIPTION:Docente: DE SPIRITO MARCO\nTipo: CODA D'ESAME\nFonte: https://r
+ oma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle
+ -lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E
+ 8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-1f16637489ab35f728e3c64b68e5064bb88293b5ab17b3c7b1a148a13e699374@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270223T070000Z
+DTEND:20270223T170000Z
+SUMMARY:CODA D'ESAME: FISICA MEDICA APPLICATA [A001732]
+LOCATION:San Luca\, Istituti Biologici
+DESCRIPTION:Docente: DE SPIRITO MARCO\nTipo: CODA D'ESAME\nFonte: https://r
+ oma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle
+ -lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E
+ 8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-0ad4e4301fffa3a24f25be954d0fac940e9793354eff1667cd16795e6d672616@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270223T070000Z
+DTEND:20270223T170000Z
+SUMMARY:CODA D'ESAME: FISICA MEDICA APPLICATA [A001732]
+LOCATION:Lazzati\, Giovanni XXIII
+DESCRIPTION:Docente: DE SPIRITO MARCO\nTipo: CODA D'ESAME\nFonte: https://r
+ oma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle
+ -lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E
+ 8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-fdad8c95a400650b404ff4fbc71c3f9d43d00d5272868c5616eee77ccaf7dcc2@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270224T070000Z
+DTEND:20270224T170000Z
+SUMMARY:CODA D'ESAME: FISICA MEDICA APPLICATA [A001732]
+LOCATION:San Camillo\, Istituti Biologici
+DESCRIPTION:Docente: DE SPIRITO MARCO\nTipo: CODA D'ESAME\nFonte: https://r
+ oma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle
+ -lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E
+ 8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-3ef3456f04cfac9dbc2ed265e0f804d6799c188724af4dd8fdafc62b70e94964@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270224T070000Z
+DTEND:20270224T170000Z
+SUMMARY:CODA D'ESAME: FISICA MEDICA APPLICATA [A001732]
+LOCATION:San Luca\, Istituti Biologici
+DESCRIPTION:Docente: DE SPIRITO MARCO\nTipo: CODA D'ESAME\nFonte: https://r
+ oma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle
+ -lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E
+ 8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-7f0e7de80877b93dcb3570a2ceecb3eaa47a0aa14e723f45fedb2729406b8224@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270225T070000Z
+DTEND:20270225T170000Z
+SUMMARY:CODA D'ESAME: FISICA MEDICA APPLICATA [A001732]
+LOCATION:Moscati\, Istituti Biologici
+DESCRIPTION:Docente: DE SPIRITO MARCO\nTipo: CODA D'ESAME\nFonte: https://r
+ oma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle
+ -lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E
+ 8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-265e0cc53f5fceeb3c1e23f19f98ffad9b88380d1809c9f75073424388ec8165@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270225T070000Z
+DTEND:20270225T170000Z
+SUMMARY:CODA D'ESAME: FISICA MEDICA APPLICATA [A001732]
+LOCATION:San Luca\, Istituti Biologici
+DESCRIPTION:Docente: DE SPIRITO MARCO\nTipo: CODA D'ESAME\nFonte: https://r
+ oma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle
+ -lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E
+ 8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-990c1a4020fb3e5540c764d9e90694ac67a78014b3956d3d40e08ed17aa35d59@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270224T070000Z
+DTEND:20270224T170000Z
+SUMMARY:APPELLO D'ESAME: SCIENZE UMANE [A001734]
+LOCATION:Bausola\, Giovanni XXIII
+DESCRIPTION:Docente: REFOLO PIETRO\nTipo: APPELLO D'ESAME\nFonte: https://r
+ oma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle
+ -lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E
+ 8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-c0b84a196e43c5a66fb30d80840055b434dbcc1d0d972c3f9a58711093e5cdd5@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270224T073000Z
+DTEND:20270224T103000Z
+SUMMARY:APPELLO D'ESAME: SCIENZE UMANE [A001734]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: REFOLO PIETRO\nTipo: APPELLO D'ESAME\nFonte: https://r
+ oma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle
+ -lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E
+ 8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-a51814c88810edbd8d5668cfc300ab0f30f1bd72bde7e15d32c226d6260787ba@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270225T073000Z
+DTEND:20270225T103000Z
+SUMMARY:APPELLO D'ESAME: ISTOLOGIA [A001737]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: TAMAGNONE LUCA\nTipo: APPELLO D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-7c7c81a645a873a34351c6b39a4676dcf37bc322c76e475302054424549dfa68@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270225T073000Z
+DTEND:20270225T173000Z
+SUMMARY:APPELLO D'ESAME: ISTOLOGIA [A001737]
+LOCATION:Lazzati\, Giovanni XXIII
+DESCRIPTION:Docente: TAMAGNONE LUCA\nTipo: APPELLO D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-2886b1855bd16adad4ddbca2d939b7fa00af10869badf04e6cf3fca8e1fb9b5f@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270322T073000Z
+DTEND:20270322T103000Z
+SUMMARY:APPELLO D'ESAME: BIOLOGIA [B000115]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: PAROLINI ORNELLA\nTipo: APPELLO D'ESAME\nFonte: https:
+ //roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-de
+ lle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl
+ =0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-1affbf1bc9e7ee7c2311fd005f7e06d7d128dc8781d5f482cc8751123c503921@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270322T073000Z
+DTEND:20270322T173000Z
+SUMMARY:APPELLO D'ESAME: BIOLOGIA [B000115]
+LOCATION:Gemelli\, Istituti Biologici
+DESCRIPTION:Docente: PAROLINI ORNELLA\nTipo: APPELLO D'ESAME\nFonte: https:
+ //roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-de
+ lle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl
+ =0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-5c7c5389c5cc0d54b15d8baa926e2b2e75792036546a7997ac5789bfd1685535@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270323T080000Z
+DTEND:20270323T170000Z
+SUMMARY:APPELLO D'ESAME: TEOLOGIA 1 - QUESTIONI FONDAMENTALI: LA FEDE CRIST
+ OLOGICA E LA SACRA SCRITTURA [A001933]
+LOCATION:Moscati\, Istituti Biologici
+DESCRIPTION:Docente: POMPEI GIACOMO\nTipo: APPELLO D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-7afdeb6a0eb28bd6c1ae272b42bbca6d441d24e6def0c86ca6a4901cc6a3d0ca@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270323T083000Z
+DTEND:20270323T170000Z
+SUMMARY:APPELLO D'ESAME: LINGUA INGLESE [A001733]
+LOCATION:Laboratorio linguistico\, Giovanni XXIII
+DESCRIPTION:Docente: REGGIANI ENRICO\nTipo: APPELLO D'ESAME\nFonte: https:/
+ /roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-del
+ le-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=
+ 0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-812b46906423467ec3b0b1ea02a53cb522fb24604a63f89786507c986a767dac@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270324T090000Z
+DTEND:20270324T150000Z
+SUMMARY:CODA D'ESAME: LINGUA INGLESE [A001733]
+LOCATION:Moscati\, Istituti Biologici
+DESCRIPTION:Docente: REGGIANI ENRICO\nTipo: CODA D'ESAME\nFonte: https://ro
+ ma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle-
+ lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E8
+ D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-2873b9ecc92518a8634ed9418e3ff45f2fbde73c7712db42f52a4d5ec1057a25@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270324T073000Z
+DTEND:20270324T103000Z
+SUMMARY:APPELLO D'ESAME: CHIMICA E PROPEDEUTICA BIOCHIMICA [A001731]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: APPELLO D'ESAME\nFonte: https
+ ://roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-d
+ elle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCd
+ l=0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-85588ec5fd71451ab637cb132e79b9b2e04757e157a1cdb91745c6611e3c60a9@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270324T073000Z
+DTEND:20270324T173000Z
+SUMMARY:APPELLO D'ESAME: CHIMICA E PROPEDEUTICA BIOCHIMICA [A001731]
+LOCATION:Gemelli\, Istituti Biologici
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: APPELLO D'ESAME\nFonte: https
+ ://roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-d
+ elle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCd
+ l=0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-00d6cc933e5624521a3d58cc91ebd106b3be9b35a0c78a18ed7c67b45747b6ac@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270401T063000Z
+DTEND:20270401T093000Z
+SUMMARY:APPELLO D'ESAME: BIOCHIMICA E BIOLOGIA MOLECOLARE [A001736]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: APPELLO D'ESAME\nFonte: https
+ ://roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-d
+ elle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCd
+ l=0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-fcdf0863a350b638f272837e45b2e50a6e709487757c2c7d68a02c1f0d2d44ff@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270401T063000Z
+DTEND:20270401T163000Z
+SUMMARY:APPELLO D'ESAME: BIOCHIMICA E BIOLOGIA MOLECOLARE [A001736]
+LOCATION:Gemelli\, Istituti Biologici
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: APPELLO D'ESAME\nFonte: https
+ ://roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-d
+ elle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCd
+ l=0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-ba1e0d568fe27d45fdb43ef2b7412eb09a42e86193c6ee039150536c9006991e@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270402T060000Z
+DTEND:20270402T160000Z
+SUMMARY:APPELLO D'ESAME: FISICA MEDICA APPLICATA [A001732]
+LOCATION:San Luca\, Istituti Biologici
+DESCRIPTION:Docente: DE SPIRITO MARCO\nTipo: APPELLO D'ESAME\nFonte: https:
+ //roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-de
+ lle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl
+ =0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-301de690a3c629495123ac157b7f04b4a7fb4346aaecacb5cae85fc57da26f69@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270402T060000Z
+DTEND:20270402T160000Z
+SUMMARY:APPELLO D'ESAME: SCIENZE UMANE [A001734]
+LOCATION:Moscati\, Istituti Biologici
+DESCRIPTION:Docente: REFOLO PIETRO\nTipo: APPELLO D'ESAME\nFonte: https://r
+ oma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle
+ -lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E
+ 8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-c405a7e22e9deb21f9541db6f2590ebf8ab1aa8d73fb91fdb6c89ecf94317b75@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270402T093000Z
+DTEND:20270402T123000Z
+SUMMARY:APPELLO D'ESAME: SCIENZE UMANE [A001734]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: REFOLO PIETRO\nTipo: APPELLO D'ESAME\nFonte: https://r
+ oma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle
+ -lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E
+ 8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-8949e72ddc0bd314e607270a3f69fca8bcee4aed80d4c61edb12270d966c780a@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270402T063000Z
+DTEND:20270402T093000Z
+SUMMARY:APPELLO D'ESAME: ISTOLOGIA [A001737]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: TAMAGNONE LUCA\nTipo: APPELLO D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-367c84db793fdbc03d0f26d134b09996dba509b31049e123149bc194e7f1ed4e@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270402T063000Z
+DTEND:20270402T163000Z
+SUMMARY:APPELLO D'ESAME: ISTOLOGIA [A001737]
+LOCATION:Lazzati\, Giovanni XXIII
+DESCRIPTION:Docente: TAMAGNONE LUCA\nTipo: APPELLO D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-50ff746a229ca8da389e44d54186652efc459c51abe2471139806b23e44f5a46@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270615T063000Z
+DTEND:20270615T093000Z
+SUMMARY:APPELLO D'ESAME: CHIMICA E PROPEDEUTICA BIOCHIMICA [A001731]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: APPELLO D'ESAME\nFonte: https
+ ://roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-d
+ elle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCd
+ l=0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-c3173447fe19c7d601e4c147c43a09810d256cb4e9165ad3781b100f40ea267f@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270615T063000Z
+DTEND:20270615T163000Z
+SUMMARY:APPELLO D'ESAME: CHIMICA E PROPEDEUTICA BIOCHIMICA [A001731]
+LOCATION:Necchi\, Istituti Biologici
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: APPELLO D'ESAME\nFonte: https
+ ://roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-d
+ elle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCd
+ l=0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-384833ecce1e88251ad3324fb72f5dfef14963c3e79438b75ec3bf9288937bba@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270616T063000Z
+DTEND:20270616T163000Z
+SUMMARY:CODA D'ESAME: CHIMICA E PROPEDEUTICA BIOCHIMICA [A001731]
+LOCATION:Necchi\, Istituti Biologici
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: CODA D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-3419cdc1dee4d0e8c2242c10bf083a577f5e8e8f8274445b88f8bfc8981945f4@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270617T063000Z
+DTEND:20270617T163000Z
+SUMMARY:CODA D'ESAME: CHIMICA E PROPEDEUTICA BIOCHIMICA [A001731]
+LOCATION:San Luca\, Istituti Biologici
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: CODA D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-eefd6ba5ea01b229658790628c02ac1872efa7ec0d18d82951585469a1423e03@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270615T063000Z
+DTEND:20270615T163000Z
+SUMMARY:APPELLO D'ESAME: BIOLOGIA [B000115]
+LOCATION:Lazzati\, Giovanni XXIII
+DESCRIPTION:Docente: PAROLINI ORNELLA\nTipo: APPELLO D'ESAME\nFonte: https:
+ //roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-de
+ lle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl
+ =0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-db8dfa8ee6d23c42efec85a9f35c23cba7c76d707710fa4947354b3402800b62@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270615T093000Z
+DTEND:20270615T123000Z
+SUMMARY:APPELLO D'ESAME: BIOLOGIA [B000115]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: PAROLINI ORNELLA\nTipo: APPELLO D'ESAME\nFonte: https:
+ //roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-de
+ lle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl
+ =0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-68cd53ddee867f1e7a3b6fa63cd93ba141a9bfdbd86a430a31efcb53bee12c01@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270616T070000Z
+DTEND:20270616T160000Z
+SUMMARY:APPELLO D'ESAME: TEOLOGIA 1 - QUESTIONI FONDAMENTALI: LA FEDE CRIST
+ OLOGICA E LA SACRA SCRITTURA [A001933]
+LOCATION:Lazzati\, Giovanni XXIII
+DESCRIPTION:Docente: POMPEI GIACOMO\nTipo: APPELLO D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-341c1fd6818e7def2e0763cbf831a23ef6caa4f77e5e5c3e18fd55a7b1c8b349@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270618T060000Z
+DTEND:20270618T160000Z
+SUMMARY:APPELLO D'ESAME: SCIENZE UMANE [A001734]
+LOCATION:Lazzati\, Giovanni XXIII
+DESCRIPTION:Docente: REFOLO PIETRO\nTipo: APPELLO D'ESAME\nFonte: https://r
+ oma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle
+ -lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E
+ 8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-20d562f94291404e8dbd20e7f6aab0ab38f79c446a9a95e0c1f6b154a8d4a064@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270618T093000Z
+DTEND:20270618T123000Z
+SUMMARY:APPELLO D'ESAME: SCIENZE UMANE [A001734]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: REFOLO PIETRO\nTipo: APPELLO D'ESAME\nFonte: https://r
+ oma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle
+ -lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E
+ 8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-096078c88bf8295dddcd48d87e17a1bb080b4f2661eeebf957eb5bdbcc3b907e@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270621T063000Z
+DTEND:20270621T093000Z
+SUMMARY:APPELLO D'ESAME: BIOCHIMICA E BIOLOGIA MOLECOLARE [A001736]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: APPELLO D'ESAME\nFonte: https
+ ://roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-d
+ elle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCd
+ l=0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-31a4d02c11b5e128e1387d71b27cc2c148b30d8fd131863e9138ffdfb1db2ce9@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270621T063000Z
+DTEND:20270621T163000Z
+SUMMARY:APPELLO D'ESAME: BIOCHIMICA E BIOLOGIA MOLECOLARE [A001736]
+LOCATION:Bausola\, Giovanni XXIII
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: APPELLO D'ESAME\nFonte: https
+ ://roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-d
+ elle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCd
+ l=0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-83eaae79b75128683627f59f0d59447c632c7786e58e36db0b5e5f8a60e220eb@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270622T063000Z
+DTEND:20270622T163000Z
+SUMMARY:CODA D'ESAME: BIOCHIMICA E BIOLOGIA MOLECOLARE [A001736]
+LOCATION:Bausola\, Giovanni XXIII
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: CODA D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-382bdb31642e5a4ff54b1a28a0fc67802fbd187d0848089f64f0b0f3adde18c7@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270623T063000Z
+DTEND:20270623T163000Z
+SUMMARY:CODA D'ESAME: BIOCHIMICA E BIOLOGIA MOLECOLARE [A001736]
+LOCATION:Necchi\, Istituti Biologici
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: CODA D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-1d77dfc076ee2f489c8962fbd3feb2034e65ef6c8b47a381aaa042a7ea7b2852@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270622T073000Z
+DTEND:20270622T160000Z
+SUMMARY:APPELLO D'ESAME: LINGUA INGLESE [A001733]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: REGGIANI ENRICO\nTipo: APPELLO D'ESAME\nFonte: https:/
+ /roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-del
+ le-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=
+ 0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-2c7af7b73338a9da07e48cd76bdb7a01b3a33b5914da6281b77bb3f452de4a20@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270624T080000Z
+DTEND:20270624T140000Z
+SUMMARY:CODA D'ESAME: LINGUA INGLESE [A001733]
+LOCATION:San Luca\, Istituti Biologici
+DESCRIPTION:Docente: REGGIANI ENRICO\nTipo: CODA D'ESAME\nFonte: https://ro
+ ma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle-
+ lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E8
+ D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-b2ae11374cf06ebaac5678ea6cc6d9e19c989a328b70f1871c4cc3157c110908@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270630T060000Z
+DTEND:20270630T160000Z
+SUMMARY:APPELLO D'ESAME: FISICA MEDICA APPLICATA [A001732]
+LOCATION:San Luca\, Istituti Biologici
+DESCRIPTION:Docente: DE SPIRITO MARCO\nTipo: APPELLO D'ESAME\nFonte: https:
+ //roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-de
+ lle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl
+ =0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-d414f2df97b1f3e964c62bc3a2182a1053a4db84e87540a1ae82843bfdfdca1a@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270630T063000Z
+DTEND:20270630T093000Z
+SUMMARY:APPELLO D'ESAME: CHIMICA E PROPEDEUTICA BIOCHIMICA [A001731]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: APPELLO D'ESAME\nFonte: https
+ ://roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-d
+ elle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCd
+ l=0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-588f6848bb7e73294de9b6055e09c025a9cd1744933042b4af3fc91ab09e8112@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270630T063000Z
+DTEND:20270630T163000Z
+SUMMARY:APPELLO D'ESAME: CHIMICA E PROPEDEUTICA BIOCHIMICA [A001731]
+LOCATION:Bausola\, Giovanni XXIII
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: APPELLO D'ESAME\nFonte: https
+ ://roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-d
+ elle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCd
+ l=0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-1c9d0c1f597ce2411d9bf5d598d0607e1c7c292824b709d3ce25151457e4eeb9@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270701T063000Z
+DTEND:20270701T163000Z
+SUMMARY:CODA D'ESAME: CHIMICA E PROPEDEUTICA BIOCHIMICA [A001731]
+LOCATION:San Luca\, Istituti Biologici
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: CODA D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-368ae8eb216c83d575f477df400c23c429ff0ffc82f700d388116c670662f690@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270702T063000Z
+DTEND:20270702T163000Z
+SUMMARY:CODA D'ESAME: CHIMICA E PROPEDEUTICA BIOCHIMICA [A001731]
+LOCATION:San Luca\, Istituti Biologici
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: CODA D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-e70ff251e2d46d6b203db82cc8ab2f8f4a0f51860041097af1780f345900472a@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270630T063000Z
+DTEND:20270630T163000Z
+SUMMARY:APPELLO D'ESAME: ISTOLOGIA [A001737]
+LOCATION:Lazzati\, Giovanni XXIII
+DESCRIPTION:Docente: TAMAGNONE LUCA\nTipo: APPELLO D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-ea22531669b7044137b645639f8038feb03857a830c89621f98631229f9b59e4@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270630T093000Z
+DTEND:20270630T123000Z
+SUMMARY:APPELLO D'ESAME: ISTOLOGIA [A001737]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: TAMAGNONE LUCA\nTipo: APPELLO D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-e740e70c882efee354473e798eb3924f1ab31f10f789b65e9ec474955aa42357@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270630T070000Z
+DTEND:20270630T160000Z
+SUMMARY:APPELLO D'ESAME: TEOLOGIA 1 - QUESTIONI FONDAMENTALI: LA FEDE CRIST
+ OLOGICA E LA SACRA SCRITTURA [A001933]
+LOCATION:Necchi\, Istituti Biologici
+DESCRIPTION:Docente: POMPEI GIACOMO\nTipo: APPELLO D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-8b75e5d0a6dbb012731643fde502a8a83838ab58e6a9bef141bbde90fe9afddf@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270702T060000Z
+DTEND:20270702T160000Z
+SUMMARY:APPELLO D'ESAME: SCIENZE UMANE [A001734]
+LOCATION:Franceschini\, Giovanni XXIII
+DESCRIPTION:Docente: REFOLO PIETRO\nTipo: APPELLO D'ESAME\nFonte: https://r
+ oma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle
+ -lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E
+ 8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-6d43afa518721807de1a414e46d4802c4285254e3206bbdfb11ca3805f2d4ca6@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270702T063000Z
+DTEND:20270702T083000Z
+SUMMARY:APPELLO D'ESAME: SCIENZE UMANE [A001734]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: REFOLO PIETRO\nTipo: APPELLO D'ESAME\nFonte: https://r
+ oma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle
+ -lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E
+ 8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-264b7e246251942a41fa0f3648358f9963f4713a1c8b52a5d7dc62ebb389034a@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270705T063000Z
+DTEND:20270705T093000Z
+SUMMARY:APPELLO D'ESAME: BIOCHIMICA E BIOLOGIA MOLECOLARE [A001736]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: APPELLO D'ESAME\nFonte: https
+ ://roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-d
+ elle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCd
+ l=0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-fcd5664019823a584789a959a9b9a6b91fbfb80b45fcd8a9f2cda34055e9441b@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270705T063000Z
+DTEND:20270705T163000Z
+SUMMARY:APPELLO D'ESAME: BIOCHIMICA E BIOLOGIA MOLECOLARE [A001736]
+LOCATION:Gemelli\, Istituti Biologici
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: APPELLO D'ESAME\nFonte: https
+ ://roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-d
+ elle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCd
+ l=0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-403dff29efe1beeadf53fed2361a34328160c69415403b0bbfcbc0d42be48fc4@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270706T063000Z
+DTEND:20270706T163000Z
+SUMMARY:CODA D'ESAME: BIOCHIMICA E BIOLOGIA MOLECOLARE [A001736]
+LOCATION:Gemelli\, Istituti Biologici
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: CODA D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-c80f03a479853d734bc1c01849f33a6e809754ca26b40bcd20063d96f530baed@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270707T063000Z
+DTEND:20270707T163000Z
+SUMMARY:CODA D'ESAME: BIOCHIMICA E BIOLOGIA MOLECOLARE [A001736]
+LOCATION:Gemelli\, Istituti Biologici
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: CODA D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-c1d717d9e1d0bf252b0e75aee4b7be2ee7cb955a3acd6356a4d0f7355569fb1d@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270706T073000Z
+DTEND:20270706T160000Z
+SUMMARY:APPELLO D'ESAME: LINGUA INGLESE [A001733]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: REGGIANI ENRICO\nTipo: APPELLO D'ESAME\nFonte: https:/
+ /roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-del
+ le-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=
+ 0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-dbf314264b6cd547c17808acc93d8f76f3f2dc1d34173d5bcc54ab3fcb3fa17a@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270708T080000Z
+DTEND:20270708T140000Z
+SUMMARY:APPELLO D'ESAME: LINGUA INGLESE [A001733]
+LOCATION:Necchi\, Istituti Biologici
+DESCRIPTION:Docente: REGGIANI ENRICO\nTipo: APPELLO D'ESAME\nFonte: https:/
+ /roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-del
+ le-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=
+ 0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-5ba71919229144d7f6c78ffadf344b7546e1689198a3c167074c7d14be5b0745@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270714T060000Z
+DTEND:20270714T160000Z
+SUMMARY:APPELLO D'ESAME: FISICA MEDICA APPLICATA [A001732]
+LOCATION:San Luca\, Istituti Biologici
+DESCRIPTION:Docente: DE SPIRITO MARCO\nTipo: APPELLO D'ESAME\nFonte: https:
+ //roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-de
+ lle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl
+ =0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-d0a8f630007602df638d852e15017c4d0906159e15ef8398b18ab81fb82646f9@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270714T063000Z
+DTEND:20270714T093000Z
+SUMMARY:APPELLO D'ESAME: BIOLOGIA [B000115]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: PAROLINI ORNELLA\nTipo: APPELLO D'ESAME\nFonte: https:
+ //roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-de
+ lle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl
+ =0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-0643208081beca813196c6fb3d87ec1b4074d1231deadef6248f22daddc83343@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270714T063000Z
+DTEND:20270714T163000Z
+SUMMARY:APPELLO D'ESAME: BIOLOGIA [B000115]
+LOCATION:Bausola\, Giovanni XXIII
+DESCRIPTION:Docente: PAROLINI ORNELLA\nTipo: APPELLO D'ESAME\nFonte: https:
+ //roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-de
+ lle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl
+ =0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-a84e04e7660582daf0396c4d56a54d97a9d9ce147d5f24ab9cfb37a478748ce3@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270714T063000Z
+DTEND:20270714T163000Z
+SUMMARY:APPELLO D'ESAME: ISTOLOGIA [A001737]
+LOCATION:Lazzati\, Giovanni XXIII
+DESCRIPTION:Docente: TAMAGNONE LUCA\nTipo: APPELLO D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-e4a32b86f859a01fa583eea4b545e8893d5fe091b0e21b7d8cb649e0fa27c259@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270714T093000Z
+DTEND:20270714T123000Z
+SUMMARY:APPELLO D'ESAME: ISTOLOGIA [A001737]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: TAMAGNONE LUCA\nTipo: APPELLO D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-b31c8d17b8d28ef38bb81eeddbd72af6473a0b6bed4c1a753c5e528c7c7d93cc@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270901T063000Z
+DTEND:20270901T093000Z
+SUMMARY:APPELLO D'ESAME: BIOLOGIA [B000115]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: PAROLINI ORNELLA\nTipo: APPELLO D'ESAME\nFonte: https:
+ //roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-de
+ lle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl
+ =0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-5a710026e9ee065b8a09f56d43fb5640318e9a7fbc2674b3d07cb10a96bcf119@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270901T063000Z
+DTEND:20270901T163000Z
+SUMMARY:APPELLO D'ESAME: BIOLOGIA [B000115]
+LOCATION:Bausola\, Giovanni XXIII
+DESCRIPTION:Docente: PAROLINI ORNELLA\nTipo: APPELLO D'ESAME\nFonte: https:
+ //roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-de
+ lle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl
+ =0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-2cf817d7a479fc8413158b0f2f7581644d024f3f40f30307391bbe4e57f26fc3@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270902T063000Z
+DTEND:20270902T093000Z
+SUMMARY:APPELLO D'ESAME: CHIMICA E PROPEDEUTICA BIOCHIMICA [A001731]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: APPELLO D'ESAME\nFonte: https
+ ://roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-d
+ elle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCd
+ l=0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-a3893714659f47936851f770ca20c45a8af446977131edafc3ffa4b914e6e0a1@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270902T063000Z
+DTEND:20270902T163000Z
+SUMMARY:APPELLO D'ESAME: CHIMICA E PROPEDEUTICA BIOCHIMICA [A001731]
+LOCATION:Gemelli\, Istituti Biologici
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: APPELLO D'ESAME\nFonte: https
+ ://roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-d
+ elle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCd
+ l=0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-2f2ead28034f6c64ee652b2a112776c8e7eb321a59926ae54afd78315207c289@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270903T063000Z
+DTEND:20270903T163000Z
+SUMMARY:CODA D'ESAME: CHIMICA E PROPEDEUTICA BIOCHIMICA [A001731]
+LOCATION:Necchi\, Istituti Biologici
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: CODA D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-3758b978b727bd5a5d46ccef0baad352b4c0f9209e7adf2d2c31283440d9506d@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270903T060000Z
+DTEND:20270903T160000Z
+SUMMARY:APPELLO D'ESAME: FISICA MEDICA APPLICATA [A001732]
+LOCATION:Moscati\, Istituti Biologici
+DESCRIPTION:Docente: DE SPIRITO MARCO\nTipo: APPELLO D'ESAME\nFonte: https:
+ //roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-de
+ lle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl
+ =0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-1060d7609ffd4a0169356168fa63d94ec14b88f7ddc80a0bbecf12548bd691a9@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270906T063000Z
+DTEND:20270906T093000Z
+SUMMARY:APPELLO D'ESAME: BIOCHIMICA E BIOLOGIA MOLECOLARE [A001736]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: APPELLO D'ESAME\nFonte: https
+ ://roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-d
+ elle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCd
+ l=0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-b3c899f24d27c2e43ca2a7f6b1aa9f71b83ff7d1a9408ee0abb06fdadc1bebd7@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270906T063000Z
+DTEND:20270906T163000Z
+SUMMARY:APPELLO D'ESAME: BIOCHIMICA E BIOLOGIA MOLECOLARE [A001736]
+LOCATION:Gemelli\, Istituti Biologici
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: APPELLO D'ESAME\nFonte: https
+ ://roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-d
+ elle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCd
+ l=0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-030a4aa4ead48f3fd6f5cac3f388e5b0b3c5a984eed68dbc5370a619951a78d0@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270907T063000Z
+DTEND:20270907T163000Z
+SUMMARY:CODA D'ESAME: BIOCHIMICA E BIOLOGIA MOLECOLARE [A001736]
+LOCATION:Gemelli\, Istituti Biologici
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: CODA D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-cb44fec43f90dd0136eb41078dcfa612043f15e51f8f539f94956b7ca661ce6c@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270908T063000Z
+DTEND:20270908T163000Z
+SUMMARY:CODA D'ESAME: BIOCHIMICA E BIOLOGIA MOLECOLARE [A001736]
+LOCATION:Gemelli\, Istituti Biologici
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: CODA D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-4b53ff801ebb0dcedd436535d93032c0e2ddabbaaf22bce0ede2c070c096c48d@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270907T073000Z
+DTEND:20270907T160000Z
+SUMMARY:APPELLO D'ESAME: LINGUA INGLESE [A001733]
+LOCATION:Laboratorio linguistico\, Giovanni XXIII
+DESCRIPTION:Docente: REGGIANI ENRICO\nTipo: APPELLO D'ESAME\nFonte: https:/
+ /roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-del
+ le-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=
+ 0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-4feb5b165a838e055ecdc538e86437021d57d18d3dc77518cf5ed529c3d42c13@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270909T080000Z
+DTEND:20270909T140000Z
+SUMMARY:CODA D'ESAME: LINGUA INGLESE [A001733]
+LOCATION:Moscati\, Istituti Biologici
+DESCRIPTION:Docente: REGGIANI ENRICO\nTipo: CODA D'ESAME\nFonte: https://ro
+ ma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle-
+ lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E8
+ D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-2c121b1baa2c39750d32a7f66f3d491135d2d45603bf847e8a255d7e359f4868@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270908T060000Z
+DTEND:20270908T160000Z
+SUMMARY:APPELLO D'ESAME: SCIENZE UMANE [A001734]
+LOCATION:Lazzati\, Giovanni XXIII
+DESCRIPTION:Docente: REFOLO PIETRO\nTipo: APPELLO D'ESAME\nFonte: https://r
+ oma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle
+ -lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E
+ 8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-9c6f9960181058ca01a96f4d99e5c3f499c4774e69b11163d2e16296424a7950@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270908T093000Z
+DTEND:20270908T113000Z
+SUMMARY:APPELLO D'ESAME: SCIENZE UMANE [A001734]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: REFOLO PIETRO\nTipo: APPELLO D'ESAME\nFonte: https://r
+ oma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle
+ -lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E
+ 8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-d9db09f38366392eefc1b139534678da56771fdafedb31c5ee95015c2ffc39d7@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270908T063000Z
+DTEND:20270908T163000Z
+SUMMARY:APPELLO D'ESAME: ISTOLOGIA [A001737]
+LOCATION:San Luca\, Istituti Biologici
+DESCRIPTION:Docente: TAMAGNONE LUCA\nTipo: APPELLO D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-7b0448fad516acfc8a6fc4fcece7ebfb3f4de33e045422406829d0eb64ee3e99@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270909T063000Z
+DTEND:20270909T093000Z
+SUMMARY:CODA D'ESAME: ISTOLOGIA [A001737]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: TAMAGNONE LUCA\nTipo: CODA D'ESAME\nFonte: https://rom
+ a.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle-l
+ ezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E8D
+ &annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-5a29cdb8cb9698fd6f5de535fbf697d9ef4d5cef1913eb8ca186f2b2b8061a00@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270909T063000Z
+DTEND:20270909T163000Z
+SUMMARY:CODA D'ESAME: ISTOLOGIA [A001737]
+LOCATION:Franceschini\, Giovanni XXIII
+DESCRIPTION:Docente: TAMAGNONE LUCA\nTipo: CODA D'ESAME\nFonte: https://rom
+ a.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle-l
+ ezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E8D
+ &annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-8f7a333ba4595dbeec024c69bf6939f217dbb57d5612ef59c824ed3869f9309d@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270910T070000Z
+DTEND:20270910T160000Z
+SUMMARY:APPELLO D'ESAME: TEOLOGIA 1 - QUESTIONI FONDAMENTALI: LA FEDE CRIST
+ OLOGICA E LA SACRA SCRITTURA [A001933]
+LOCATION:Moscati\, Istituti Biologici
+DESCRIPTION:Docente: POMPEI GIACOMO\nTipo: APPELLO D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-db92d26b9d879e0d2b0ea521bd2a97338be29f22379409218f7eb5685a0ad8cb@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270915T063000Z
+DTEND:20270915T093000Z
+SUMMARY:APPELLO D'ESAME: BIOLOGIA [B000115]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: PAROLINI ORNELLA\nTipo: APPELLO D'ESAME\nFonte: https:
+ //roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-de
+ lle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl
+ =0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-98ee1a614e493ef9a8c03a6519d97a6ce5544eba24d2a7188eac12f98501ee34@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270915T063000Z
+DTEND:20270915T163000Z
+SUMMARY:APPELLO D'ESAME: BIOLOGIA [B000115]
+LOCATION:Bausola\, Giovanni XXIII
+DESCRIPTION:Docente: PAROLINI ORNELLA\nTipo: APPELLO D'ESAME\nFonte: https:
+ //roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-de
+ lle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl
+ =0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-a70195d57728dd787d6c83211affe687be11a4fa8f1fca69a63072b6d5a5bb41@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270916T063000Z
+DTEND:20270916T093000Z
+SUMMARY:APPELLO D'ESAME: CHIMICA E PROPEDEUTICA BIOCHIMICA [A001731]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: APPELLO D'ESAME\nFonte: https
+ ://roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-d
+ elle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCd
+ l=0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-c8e6d3afc78cc1b4e6bcb59969ef83221d0ce694f8b4900b6b875ae92c8abdb0@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270916T063000Z
+DTEND:20270916T163000Z
+SUMMARY:APPELLO D'ESAME: CHIMICA E PROPEDEUTICA BIOCHIMICA [A001731]
+LOCATION:Gemelli\, Istituti Biologici
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: APPELLO D'ESAME\nFonte: https
+ ://roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-d
+ elle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCd
+ l=0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-1f364e462b1fe834f7b516e94ac7b54363d6996a52ca36cf66ec077899734389@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270917T063000Z
+DTEND:20270917T163000Z
+SUMMARY:CODA D'ESAME: CHIMICA E PROPEDEUTICA BIOCHIMICA [A001731]
+LOCATION:Necchi\, Istituti Biologici
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: CODA D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-6d7409fb69e37bfe76b1bd85b67179d9201ecf620fea9d24b935d3dabc898655@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270917T060000Z
+DTEND:20270917T160000Z
+SUMMARY:APPELLO D'ESAME: FISICA MEDICA APPLICATA [A001732]
+LOCATION:Moscati\, Istituti Biologici
+DESCRIPTION:Docente: DE SPIRITO MARCO\nTipo: APPELLO D'ESAME\nFonte: https:
+ //roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-de
+ lle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl
+ =0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-06e277cea1f6dd3c5ab5683c4024cb4b580e8ae8477e8877a2116290a1872298@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270920T063000Z
+DTEND:20270920T093000Z
+SUMMARY:APPELLO D'ESAME: BIOCHIMICA E BIOLOGIA MOLECOLARE [A001736]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: APPELLO D'ESAME\nFonte: https
+ ://roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-d
+ elle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCd
+ l=0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-4d111da1e97b6a9a9b53338d485b12c7a65d13a1c11a347ea053a901d55d36eb@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270920T063000Z
+DTEND:20270920T163000Z
+SUMMARY:APPELLO D'ESAME: BIOCHIMICA E BIOLOGIA MOLECOLARE [A001736]
+LOCATION:Gemelli\, Istituti Biologici
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: APPELLO D'ESAME\nFonte: https
+ ://roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-d
+ elle-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCd
+ l=0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-a70be4a4d9dbcb423780951b83370ee62c7634dfd812c0409444b8c172bb365c@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270921T063000Z
+DTEND:20270921T163000Z
+SUMMARY:CODA D'ESAME: BIOCHIMICA E BIOLOGIA MOLECOLARE [A001736]
+LOCATION:Gemelli\, Istituti Biologici
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: CODA D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-7b2eb50cf11b632182fd2f4693b7f3aa9fcf5b7cd2cd84d669a7a8b3267ce5b9@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270922T063000Z
+DTEND:20270922T163000Z
+SUMMARY:CODA D'ESAME: BIOCHIMICA E BIOLOGIA MOLECOLARE [A001736]
+LOCATION:Gemelli\, Istituti Biologici
+DESCRIPTION:Docente: CECCONI FRANCESCO\nTipo: CODA D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-90c1c388c26ab3b44264ba2745248caa424fcbe199bcb62c9bc1816ebe47e6be@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270921T073000Z
+DTEND:20270921T160000Z
+SUMMARY:APPELLO D'ESAME: LINGUA INGLESE [A001733]
+LOCATION:Laboratorio linguistico\, Giovanni XXIII
+DESCRIPTION:Docente: REGGIANI ENRICO\nTipo: APPELLO D'ESAME\nFonte: https:/
+ /roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-del
+ le-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=
+ 0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-a47ef20016e71df71600c69566dc19bc5ec20d3ad918a83f2ad844d708ad6413@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270923T080000Z
+DTEND:20270923T140000Z
+SUMMARY:APPELLO D'ESAME: LINGUA INGLESE [A001733]
+LOCATION:Moscati\, Istituti Biologici
+DESCRIPTION:Docente: REGGIANI ENRICO\nTipo: APPELLO D'ESAME\nFonte: https:/
+ /roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-del
+ le-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=
+ 0E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-d122c696357a3497595acdf557bd34f511aa6461f5a04a5fb1e50dce93ccc7b5@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270922T060000Z
+DTEND:20270922T160000Z
+SUMMARY:APPELLO D'ESAME: SCIENZE UMANE [A001734]
+LOCATION:Franceschini\, Giovanni XXIII
+DESCRIPTION:Docente: REFOLO PIETRO\nTipo: APPELLO D'ESAME\nFonte: https://r
+ oma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle
+ -lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E
+ 8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-138e6403dbf38208f6cfc72d6c8414dcf92a2aa85d7cb5664abd32301b36df63@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270922T093000Z
+DTEND:20270922T113000Z
+SUMMARY:APPELLO D'ESAME: SCIENZE UMANE [A001734]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: REFOLO PIETRO\nTipo: APPELLO D'ESAME\nFonte: https://r
+ oma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle
+ -lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E
+ 8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-f9e96d2da464759436e13567d919cf2bdb054dbd40bf4afe5378ae0ae2381648@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270922T063000Z
+DTEND:20270922T163000Z
+SUMMARY:APPELLO D'ESAME: ISTOLOGIA [A001737]
+LOCATION:San Luca\, Istituti Biologici
+DESCRIPTION:Docente: TAMAGNONE LUCA\nTipo: APPELLO D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-928f550752e0fc5e5cf48349d9f77035c95b36dcd3fa4359ca7abda3c465e65c@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270923T063000Z
+DTEND:20270923T093000Z
+SUMMARY:CODA D'ESAME: ISTOLOGIA [A001737]
+LOCATION:1\, Giovanni XXIII
+DESCRIPTION:Docente: TAMAGNONE LUCA\nTipo: CODA D'ESAME\nFonte: https://rom
+ a.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle-l
+ ezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E8D
+ &annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-5aa33d1b77505f3529b3ea4861f8467b4bb3346b0d3163758119a686d15b7c8c@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270923T063000Z
+DTEND:20270923T163000Z
+SUMMARY:CODA D'ESAME: ISTOLOGIA [A001737]
+LOCATION:Franceschini\, Giovanni XXIII
+DESCRIPTION:Docente: TAMAGNONE LUCA\nTipo: CODA D'ESAME\nFonte: https://rom
+ a.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-delle-l
+ ezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0E8D
+ &annoDiCorso=1
+END:VEVENT
+BEGIN:VEVENT
+UID:esame-7e3ab991d76fc9280b541910cf76904500d755681814b6e7fb25abe1df6e9502@
+ orari-scraper
+DTSTAMP:20261028T084033Z
+DTSTART:20270924T070000Z
+DTEND:20270924T160000Z
+SUMMARY:APPELLO D'ESAME: TEOLOGIA 1 - QUESTIONI FONDAMENTALI: LA FEDE CRIST
+ OLOGICA E LA SACRA SCRITTURA [A001933]
+LOCATION:Moscati\, Istituti Biologici
+DESCRIPTION:Docente: POMPEI GIACOMO\nTipo: APPELLO D'ESAME\nFonte: https://
+ roma.unicatt.it/polo-studenti-e-didattica-programmi-dei-corsi-e-orari-dell
+ e-lezioni/RM/calendario-esami?anno=2026&tipo=CDL&codFacolta=75012&codCdl=0
+ E8D&annoDiCorso=1
+END:VEVENT
 END:VCALENDAR
