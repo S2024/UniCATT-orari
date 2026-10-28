@@ -1,6 +1,7 @@
 """Aggiorna lo stesso ICS con lezioni filtrate ed esami senza filtri di canale.
 Uso: python update_calendar.py URL_LEZIONI URL_ESAMI
 Richiede Playwright e l'estrattore lezioni esistente: extract_ics.js.
+Il tipo di appello puo essere vuoto: in quel caso il titolo usa ESAME.
 """
 import hashlib
 import json
@@ -38,8 +39,14 @@ EXAM_JS = r"""() => {
       ['insegnamento','giorno','orario','edificio','aula','docente','appello']
         .map(cls => [cls, cell(row, cls)])
     );
-    for (const key of ['insegnamento','giorno','orario','appello']) {
+    for (const key of ['insegnamento','giorno','orario']) {
       if (!item[key]) throw new Error(`Riga ${i + 1}: campo vuoto ${key}`);
+    }
+    if (!item.appello) {
+      console.warn(
+        `Riga ${i + 1}: tipo di appello non specificato; evento incluso`,
+        item.insegnamento, item.giorno, item.orario
+      );
     }
     return item;
   });
@@ -131,14 +138,15 @@ def exam_events(rows, old_ics, url):
         location = ', '.join(filter(None, [row['aula'], row['edificio']]))
         description = '\n'.join(filter(None, [
             'Docente: ' + row['docente'] if row['docente'] else '',
-            'Tipo: ' + row['appello'], 'Fonte: ' + url,
+            'Tipo: ' + (row['appello'] or 'Non specificato sul sito'),
+            'Fonte: ' + url,
         ]))
         lines = [
             'BEGIN:VEVENT', 'UID:' + uid,
             'DTSTAMP:' + (old_stamps.get(uid) or now),
             'DTSTART:' + start.astimezone(timezone.utc).strftime('%Y%m%dT%H%M%SZ'),
             'DTEND:' + end.astimezone(timezone.utc).strftime('%Y%m%dT%H%M%SZ'),
-            'SUMMARY:' + escape(row['appello'] + ': ' + row['insegnamento']),
+            'SUMMARY:' + escape((row['appello'] or 'ESAME') + ': ' + row['insegnamento']),
         ]
         if location:
             lines.append('LOCATION:' + escape(location))
@@ -182,7 +190,7 @@ def fetch_source(browser, url, kind, lesson_js):
                 validate_calendar(result['ics'])
                 print(f"Lezioni: {result['count']}; escluse: {result.get('excludedCount', 0)}", flush=True)
             else:
-                exam_events(result, '', url)  # Valida ogni riga anche dentro il retry.
+                exam_events(result, '', url)
                 print(f'Esami: {len(result)}', flush=True)
             return result
         except (PlaywrightError, RuntimeError, ValueError, KeyError, TypeError) as error:
